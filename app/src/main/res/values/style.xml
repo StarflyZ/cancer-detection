@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTitleText" parent="@style/MaterialAlertDialog.Material3">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@color/md_theme_surface</item>
+    </style>
+</resources>
